@@ -77,7 +77,7 @@ export const companies: Company[] = [
   },
   {
     id: 15,
-    name: "БльюМон хөдөлмөрийн гэрээ",
+    name: "БльюМон Хөдөлмөрийн дотоод журам",
     pdf: "/pdfs/company-15.pdf",
   },
 ];
