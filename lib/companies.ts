@@ -75,4 +75,9 @@ export const companies: Company[] = [
     name: "Түрэлт",
     pdf: "/pdfs/company-14.pdf    ",
   },
+  {
+    id: 15,
+    name: "БльюМон хөдөлмөрийн гэрээ",
+    pdf: "/pdfs/company-15.pdf",
+  },
 ];
